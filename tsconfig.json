@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "sourceMap": true,
+      "target": "es2017",
+      "module": "commonjs",
+      "outDir": "./dist",
+      "baseUrl": "./src",
+      "alwaysStrict": true,
+      "noImplicitAny": false,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "allowSyntheticDefaultImports": true,
+      "moduleResolution": "node",
+      "typeRoots": ["./node_modules/@types"]
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+  }
+  
