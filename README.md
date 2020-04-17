@@ -6,15 +6,17 @@ npm run start
 ## Functions
 ### Signup
 POST /users 
-    {
-        "email": ...,
-        "password": ....
-    }
-
+```
+{
+    "email": ...,
+    "password": ....
+}
+```
 ### Login
-
+```
 POST /users/login
-    {
-        "email": ...,
-        "password": ....
-    }
+{
+    "email": ...,
+    "password": ....
+}
+```
