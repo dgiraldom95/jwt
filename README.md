@@ -1,6 +1,8 @@
 ## Start:
 Initialize mongo on localhost 27017
+
 npm install
+
 npm run start
 
 ## Functions
