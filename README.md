@@ -7,8 +7,8 @@ npm run start
 
 ## Functions
 ### Signup
-POST /users 
 ```
+POST /users 
 {
     "email": ...,
     "password": ....
